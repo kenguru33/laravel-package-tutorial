@@ -1,0 +1,11 @@
+{
+    "name": "anker/sms-messenger",
+    "description": "SMS Messenger",
+    "authors": [
+        {
+            "name": "Bernt Anker",
+            "email": "bernt.anker@me.com"
+        }
+    ],
+    "require": {}
+}
